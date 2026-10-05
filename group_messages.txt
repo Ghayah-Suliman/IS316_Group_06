@@ -1,3 +1,2 @@
 IS316 -Group 06
 Ghayah:Git helps us to keep track of our project history.
-Haya: Git allows us to collaborate and manage changes in our project.
