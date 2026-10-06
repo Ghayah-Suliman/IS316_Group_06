@@ -2,3 +2,4 @@ IS316 -Group 06
 Ghayah:Git helps us to keep track of our project history.
 Haya:GitHub allows us to collaborate and manage our project.
 Shaima: Branches let us work on new features without breaking the main code
+Hana: Git allows us to easily revert to previous working versions if an error occurs.
